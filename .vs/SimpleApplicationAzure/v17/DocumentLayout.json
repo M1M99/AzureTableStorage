@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\SimpleApplicationAzure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C40D212-57CA-4FB1-9C44-520FDFDDC5F6}|SimpleApplicationAzure\\SimpleApplicationAzure.csproj|c:\\users\\asus\\source\\repos\\simpleapplicationazure\\simpleapplicationazure\\services\\inosqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C40D212-57CA-4FB1-9C44-520FDFDDC5F6}|SimpleApplicationAzure\\SimpleApplicationAzure.csproj|solutionrelative:simpleapplicationazure\\services\\inosqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C40D212-57CA-4FB1-9C44-520FDFDDC5F6}|SimpleApplicationAzure\\SimpleApplicationAzure.csproj|c:\\users\\asus\\source\\repos\\simpleapplicationazure\\simpleapplicationazure\\services\\nosqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C40D212-57CA-4FB1-9C44-520FDFDDC5F6}|SimpleApplicationAzure\\SimpleApplicationAzure.csproj|solutionrelative:simpleapplicationazure\\services\\nosqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C40D212-57CA-4FB1-9C44-520FDFDDC5F6}|SimpleApplicationAzure\\SimpleApplicationAzure.csproj|c:\\users\\asus\\source\\repos\\simpleapplicationazure\\simpleapplicationazure\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C40D212-57CA-4FB1-9C44-520FDFDDC5F6}|SimpleApplicationAzure\\SimpleApplicationAzure.csproj|solutionrelative:simpleapplicationazure\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C40D212-57CA-4FB1-9C44-520FDFDDC5F6}|SimpleApplicationAzure\\SimpleApplicationAzure.csproj|c:\\users\\asus\\source\\repos\\simpleapplicationazure\\simpleapplicationazure\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C40D212-57CA-4FB1-9C44-520FDFDDC5F6}|SimpleApplicationAzure\\SimpleApplicationAzure.csproj|solutionrelative:simpleapplicationazure\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C40D212-57CA-4FB1-9C44-520FDFDDC5F6}|SimpleApplicationAzure\\SimpleApplicationAzure.csproj|c:\\users\\asus\\source\\repos\\simpleapplicationazure\\simpleapplicationazure\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C40D212-57CA-4FB1-9C44-520FDFDDC5F6}|SimpleApplicationAzure\\SimpleApplicationAzure.csproj|solutionrelative:simpleapplicationazure\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C40D212-57CA-4FB1-9C44-520FDFDDC5F6}|SimpleApplicationAzure\\SimpleApplicationAzure.csproj|c:\\users\\asus\\source\\repos\\simpleapplicationazure\\simpleapplicationazure\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C40D212-57CA-4FB1-9C44-520FDFDDC5F6}|SimpleApplicationAzure\\SimpleApplicationAzure.csproj|solutionrelative:simpleapplicationazure\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "INoSqlService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SimpleApplicationAzure\\SimpleApplicationAzure\\Services\\INoSqlService.cs",
+              "RelativeDocumentMoniker": "SimpleApplicationAzure\\Services\\INoSqlService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SimpleApplicationAzure\\SimpleApplicationAzure\\Services\\INoSqlService.cs",
+              "RelativeToolTip": "SimpleApplicationAzure\\Services\\INoSqlService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:56:31.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoSqlService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SimpleApplicationAzure\\SimpleApplicationAzure\\Services\\NoSqlService.cs",
+              "RelativeDocumentMoniker": "SimpleApplicationAzure\\Services\\NoSqlService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SimpleApplicationAzure\\SimpleApplicationAzure\\Services\\NoSqlService.cs",
+              "RelativeToolTip": "SimpleApplicationAzure\\Services\\NoSqlService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:56:28.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SimpleApplicationAzure\\SimpleApplicationAzure\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "SimpleApplicationAzure\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SimpleApplicationAzure\\SimpleApplicationAzure\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "SimpleApplicationAzure\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:52:31.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SimpleApplicationAzure\\SimpleApplicationAzure\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SimpleApplicationAzure\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SimpleApplicationAzure\\SimpleApplicationAzure\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SimpleApplicationAzure\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:52:30.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SimpleApplicationAzure\\SimpleApplicationAzure\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "SimpleApplicationAzure\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SimpleApplicationAzure\\SimpleApplicationAzure\\Models\\Store.cs",
+              "RelativeToolTip": "SimpleApplicationAzure\\Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:51:08.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\SimpleApplicationAzure\\SimpleApplicationAzure\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SimpleApplicationAzure\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\SimpleApplicationAzure\\SimpleApplicationAzure\\Models\\Product.cs",
+              "RelativeToolTip": "SimpleApplicationAzure\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:50:34.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
