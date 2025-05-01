@@ -1,0 +1,52 @@
+# .NET derleme çıktıları
+bin/
+obj/
+out/
+
+# User-specific dosyalar
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code / Visual Studio klasörleri
+.vscode/
+.idea/
+.vs/
+
+# .NET gizli config dosyaları
+appsettings.json
+appsettings.*.json
+
+# Log dosyaları
+*.log
+
+# Paket klasörleri
+packages/
+*.nupkg
+*.snupkg
+
+# Publish çıktısı
+publish/
+wwwroot/
+
+# OS / Sistem dosyaları
+Thumbs.db
+Desktop.ini
+*.DS_Store
+
+# Rider, JetBrains
+*.sln.iml
+
+# dotenv ve config dosyaları
+.env
+.env.*
+
+# Backup ve temp dosyaları
+*~
+*.bak
+*.tmp
+
+# Git güvenliği için geçmişte unutulmaması gereken dosyalar
+SimpleApplicationAzure/bin/
+SimpleApplicationAzure/obj/
