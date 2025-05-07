@@ -7,6 +7,7 @@ import Modal from 'react-bootstrap/Modal';
 import Button from 'react-bootstrap/Button';
 import { useState } from 'react';
 import AddProductForm from '../Actions/AddProduct';
+import AddStoreForm from '../Actions/AddStore';
 
 const Header = () => {
     const [showProductModal, setShowProductModal] = useState(false);
@@ -57,7 +58,7 @@ const Header = () => {
                     <Modal.Title>Add New Store</Modal.Title>
                 </Modal.Header>
                 <Modal.Body>
-                    <div></div>
+                    <div><AddStoreForm/></div>
                 </Modal.Body>
                 <Modal.Footer>
                     <Button variant="secondary" onClick={handleStoreClose}>
